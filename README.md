@@ -30,4 +30,3 @@ pip install [dependency]
 
 ## Usage
 put token in config folder and password if you want to steal other people's profile pictures
-![download](https://frazeh.is-terrible.com/AJc5bI)
